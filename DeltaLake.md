@@ -61,4 +61,3 @@ spark = configure_spark_with_delta_pip(builder).getOrCreate()
 
 [1] [Getting Started with Delta Lake](https://delta.io/learn/getting-started)
 
-[2] 
